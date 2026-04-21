@@ -61,8 +61,6 @@
     "House" : "Casa",
     "Houses": "Case scelte",
     "{0} forges the {1}, paying {2} amber": "{0} forgia la {1}, pagando {2} amber",
-
-
     "Select {{count}} more house(s)" : "Seleziona altre {{count}} casa(e)",
     "Alliance deck saved." : "Mazzo alliance salvato.",
     "Failed to save alliance deck. Please try again." : "Impossibile salvare il mazzo alliance. Per favore, riprova.",
@@ -111,7 +109,6 @@
     "Waiting": "In attesa",
     "Games" : "Partite",
     "No announcements" : "Nessun annuncio",
-    
     "Decks": "Mazzi",
     "Play": "Gioca",
     "Help": "Aiuto",
@@ -213,7 +210,9 @@
     "Beginner": "Principiante",
     "Casual": "Casual",
     "Competitive": "Competitivo",
+    "Normal": "Normale",
     "normal": "Normale",
+    "Popular": "Popolare",
     "Sealed": "Sealed",
     "Adaptive (Bo1)": "Adattivo (Bo1)",
     "Only show new games": "Mostra solo le nuove partite",
